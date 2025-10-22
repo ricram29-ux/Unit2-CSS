@@ -7,7 +7,7 @@
 body {
     background-color: white;
     color: #333333; /* fixed invalid color */
-    font-family: 'Roboto', sans-serif; /* proper font-family usage */
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.6;
     margin: 0;
@@ -21,11 +21,10 @@ header {
     text-align: center;
     padding: 40px 20px;
 }
-.tagline{
+
+.tagline {
     font-size: 20px;
-    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">;
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
     color: orange;
     margin: 0;
