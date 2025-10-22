@@ -1,0 +1,40 @@
+/* Movie Review CSS Starter File */
+
+/* Proper font import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap');
+
+/* Base styles */
+body {
+    background-color: white;
+    color: #333333; /* fixed invalid color */
+    font-family: 'Roboto', sans-serif; /* proper font-family usage */
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+.tagline{
+    font-size: 20px;
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">;
+    font-style: italic;
+    color: orange;
+    margin: 0;
+}
+
+/* Step 1: Colors - We'll add these together! */
+
+
+/* Step 2: Typography - Font families coming soon! */
+
+
+/* Step 3: Text styling - Sizes and spacing! */
