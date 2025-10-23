@@ -1,0 +1,19 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* allows cards to wrap to the next row if screen is small */
+    gap: 20px; /* spacing between cards */
+    justify-content: center; /* centers cards within container */
+}
+
+.card {
+    width: 250px;
+    height: 350px;
+    padding: 10px;
+    border: 3px blue;
+    margin: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+.card img{
+    border-radius: 10px 10px 0 0;
+}
