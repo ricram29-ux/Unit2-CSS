@@ -40,7 +40,7 @@ HEADER SECTION
 }
 
 .main-nav a {
-    color: #ffffff;
+    color: #a22222;
     margin-left: 30px;
     text-decoration: none;
     font-weight: bold;
@@ -99,7 +99,7 @@ FEATURES SECTION
 =================================== */
 .features-section {
     padding: 80px 0;
-    background-color: #f7f7f7;
+    background-color: #831212;
 }
 
 .section-title {
@@ -117,7 +117,7 @@ FEATURES SECTION
 }
 
 .feature-card {
-    background: #ffffff;
+    background: #3cbac1;
     border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     flex: 1;
@@ -142,15 +142,4 @@ FEATURES SECTION
     line-height: 1.5;
 }
 
-/* Mobile Responsiveness */
-@media (max-width: 768px) {
-    .features-grid {
-        flex-direction: column;
-    }
 
-    .main-nav {
-        display: flex;
-        flex-direction: column;
-        gap: 15px;
-    }
-}
